@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aixiaoji_ctrl" target="blank"><img src="https://img.shields.io/twitter/follow/aixiaoji_ctrl?logo=twitter&style=for-the-badge" alt="aixiaoji_ctrl" /></a> </p>
 
-- 🔭 我目前正在做 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
+- 🔭 我目前正在制作 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
 
 - 🌱 我目前正在学习 **C++**
 
-- 👯 我期待合作 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
+- 👯 我正在寻找合作 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
 
 - 🤝 我正在寻找帮助 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
 
-- 👨‍💻 我的所有项目都可以在 [https://github.com/HelloAIXIAOJI](https://github.com/HelloAIXIAOJI)
+- 👨‍💻 我所有的项目： [https://github.com/HelloAIXIAOJI](https://github.com/HelloAIXIAOJI)
 
 <!-- - 📝 我撰写文章在 [占位符](占位符) -->
 
