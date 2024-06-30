@@ -15,7 +15,7 @@
 
 - 🤝 我正在寻找帮助 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
 
-- 👨‍💻 我的所有项目都可以在 [https://github.com/Aixiaoji-Short-URL/Short-URL-theme-CodeCrafter-TL-x-html/commits?author=HelloAIXIAOJI](https://github.com/Aixiaoji-Short-URL/Short-URL-theme-CodeCrafter-TL-x-html/commits?author=HelloAIXIAOJI)
+- 👨‍💻 我的所有项目都可以在 [https://github.com/HelloAIXIAOJI](https://github.com/HelloAIXIAOJI)
 
 <!-- - 📝 我撰写文章在 [占位符](占位符) -->
 
