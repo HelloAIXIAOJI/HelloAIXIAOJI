@@ -108,3 +108,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helloaixiaoji&" alt="helloaixiaoji" /></p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HelloAIXIAOJI&theme=high-contrast" />
+</p>
+
