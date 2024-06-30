@@ -1,4 +1,7 @@
-<h1 align="center">嗨👋, 我叫 Aixiaoji_爱小鸡</h1>
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=嗨!%20我叫爱小鸡&textBg=false&fontAlignY=50&animation=fadeIn&desc=Hi!%20My%20name%20is%20Aixiaoji&descAlign=50&descAlignY=30&section=header&reversal=false" />
+</p>
 <h3 align="center">来自中国的一位业余开发者 - An amateur developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloaixiaoji&label=Profile%20views&color=0e75b6&style=flat" alt="helloaixiaoji" /> </p>
