@@ -10,26 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/aixiaoji_ctrl" target="blank"><img src="https://img.shields.io/twitter/follow/aixiaoji_ctrl?logo=twitter&style=for-the-badge" alt="aixiaoji_ctrl" /></a> </p>
 
-- 🔭 我目前正在制作 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
-
-- 🌱 我目前正在学习 **C++**
-
-- 👯 我正在寻找合作 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
-
-- 🤝 我正在寻找帮助 [Short-URL](https://github.com/Aixiaoji-Short-URL/Short-URL)
-
-- 👨‍💻 我所有的项目： [https://github.com/HelloAIXIAOJI](https://github.com/HelloAIXIAOJI)
-
-<!-- - 📝 我撰写文章在 [占位符](占位符) -->
-
-- 💬 可以询问我 **PHP**
-
-- 📫 如何联系我 **Email：aixiaoji2020@163.com**
-
-<!-- - 📄 了解我的经历 [占位符](占位符) -->
-
-<!-- - ⚡ 有趣的事实 **鸡你太美** -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/aixiaoji_ctrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x @Aixiaoji_CTRL" height="30" width="40" /></a>
